@@ -3,7 +3,7 @@
 # Developed by - RITIK DHABEKAR
 
 
-# The Sparks Foundation Internship Project : Basic Banking System
+# The Sparks Foundation Internship Project :
 ## Task
 > Basic Banking System- https://ritikdhabekar.github.io/BasicBankingSystem/
 
